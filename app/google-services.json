@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570490984844",
+    "project_id": "mobilkilab3",
+    "storage_bucket": "mobilkilab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570490984844:android:497d4c869bd45ba740dea9",
+        "android_client_info": {
+          "package_name": "by.bsuir.dshparko.mobilki_lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570490984844-7v0fpa71fibrenu4jomktj1agri5gtqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.bsuir.dshparko.mobilki_lab3",
+            "certificate_hash": "bef7ff1347c3e9c971efe1bbc35381260d5e43b4"
+          }
+        },
+        {
+          "client_id": "570490984844-1op24o4cbbg4l2taq33966nb5lincasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjchVRpjvZmlWTkuGZJzYpPO8oRR7TDRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570490984844-1op24o4cbbg4l2taq33966nb5lincasp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
