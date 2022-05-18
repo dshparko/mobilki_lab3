@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "570490984844",
+    "firebase_url": "https://mobilkilab3-default-rtdb.firebaseio.com",
     "project_id": "mobilkilab3",
     "storage_bucket": "mobilkilab3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:570490984844:android:497d4c869bd45ba740dea9",
+        "mobilesdk_app_id": "1:570490984844:android:4b4d422a79432fa840dea9",
         "android_client_info": {
           "package_name": "by.bsuir.dshparko.mobilki_lab3"
         }

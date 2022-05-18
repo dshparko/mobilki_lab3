@@ -1,5 +1,4 @@
 package by.bsuir.dshparko.mobilki_lab3;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -101,5 +100,6 @@ public class SignInActivity extends AppCompatActivity {
         progressBar = findViewById(R.id.progressBarSignIn);
 
         mAuth = FirebaseAuth.getInstance();
+
     }
 }

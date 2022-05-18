@@ -26,6 +26,7 @@ import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.concurrent.ExecutorService;
@@ -33,7 +34,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
-
     public static final int MOODS_COUNT = 6;
     public static Mood APP_MOODS[] =
             new Mood[]{

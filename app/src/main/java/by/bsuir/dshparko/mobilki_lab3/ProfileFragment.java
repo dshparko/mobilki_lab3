@@ -705,7 +705,7 @@ public class ProfileFragment extends Fragment {
                         @Override
                         public void onDataChange(@NonNull DataSnapshot snapshot) {
                             User userProfile = snapshot.getValue(User.class);
-
+System.out.println(userProfile+"!!!!!!!!!!!!!!!!!!!");
                             if (userProfile != null) {
                                 fullName = userProfile.name;
                                 email = userProfile.email;

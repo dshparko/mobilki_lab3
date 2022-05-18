@@ -11,11 +11,6 @@
         android:label="fragment_feed"
         tools:layout="@layout/fragment_feed" />
     <fragment
-        android:id="@+id/musicFragment"
-        android:name="by.bsuir.dshparko.mobilki_lab3.MusicFragment"
-        android:label="fragment_music"
-        tools:layout="@layout/fragment_music" />
-    <fragment
         android:id="@+id/profileFragment"
         android:name="by.bsuir.dshparko.mobilki_lab3.ProfileFragment"
         android:label="fragment_profile"
